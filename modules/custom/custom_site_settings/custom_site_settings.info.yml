@@ -1,0 +1,6 @@
+name: custom_site_settings
+type: module
+description: 'Custom Change Site Name Setting'
+package: Custom
+version: VERSION
+core: 8.x

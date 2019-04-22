@@ -1,0 +1,4 @@
+'administer custom_site_settings':
+  title: 'Change site name setting'
+  description: 'Change site name setting.'
+  restrict access: true

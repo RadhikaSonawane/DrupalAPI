@@ -1,0 +1,7 @@
+custom_site_settings.config_site_form:
+  path: '/custom-site-settings'
+  defaults:
+    _controller: '\Drupal\custom_site_settings\Controller\ChangeSiteNameFormController::getForm'
+    _title: 'Change Site Name'
+  requirements:
+    _permission: 'administer custom_site_settings'
